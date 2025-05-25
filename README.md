@@ -1,4 +1,4 @@
-# # 👋 Olá! Eu sou o Brancaglioni
+# # 👋 Olá! Eu sou o Wilson Brancaglioni
 
 🔧 Desenvolvedor entusiasta de soluções práticas com Python, automações e eletrônica aplicada com Arduino e ESP32.
 
